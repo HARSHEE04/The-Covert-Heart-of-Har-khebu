@@ -1,3 +1,5 @@
+#Used as a duplicate of the app.py to work out game flow design
+
 import tkinter.messagebox as ms
 import random
 import time
